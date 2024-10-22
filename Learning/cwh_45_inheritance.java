@@ -29,5 +29,6 @@ public class cwh_45_inheritance {
         d.setx(10);
         System.out.println(d.getx());
         
+    }
 }
 
