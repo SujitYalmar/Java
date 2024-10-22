@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 class employee {
     public int Salary;
     int id;

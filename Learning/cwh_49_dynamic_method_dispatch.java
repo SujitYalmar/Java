@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 class Phone{
     public void showTime(){
         System.out.println("Time is 8 am");

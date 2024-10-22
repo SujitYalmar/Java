@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 
 public class cwh_34_Quiz {
     // Java program for Fibonacci Series using Space

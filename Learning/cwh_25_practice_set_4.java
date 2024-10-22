@@ -1,5 +1,4 @@
-
-package com.company;
+package Learning;
 
 public class cwh_25_practice_set_4 {
     public static void main(String[] args) {

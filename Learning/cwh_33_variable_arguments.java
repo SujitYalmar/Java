@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 
 public class cwh_33_variable_arguments {
     /*

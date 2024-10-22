@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 import java.util.Scanner;
 
 public class CWH_18_conditional_elseif {

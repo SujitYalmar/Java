@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 
 public class cwh_08_ch2 {
     public static void main(String[] args) {

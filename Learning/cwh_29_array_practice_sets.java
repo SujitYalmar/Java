@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 
 public class cwh_29_array_practice_sets {
     public static void main(String[] args) {

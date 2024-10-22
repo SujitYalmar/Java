@@ -1,7 +1,7 @@
-package com.company;
+package Learning;
 import java.util.Scanner;
 
-public class CWH_05_Taking_input {
+public class CWH_05_taking_input {
     public static void main(String[] args) {
         System.out.println("Taking Input From the User");
         Scanner sc = new Scanner(System.in);

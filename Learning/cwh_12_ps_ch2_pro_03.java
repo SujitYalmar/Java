@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 import java.util.Scanner;
 public class cwh_12_ps_ch2_pro_03 {
     public static void main(String[] args) {

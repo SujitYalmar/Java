@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 
 class base{
     public int x;

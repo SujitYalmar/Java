@@ -1,5 +1,4 @@
- package com.company;
-
+package Learning;
 public class cwh_27_arrays {
     public static void main(String[] args) {
         /*

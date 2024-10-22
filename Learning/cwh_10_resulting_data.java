@@ -1,5 +1,5 @@
 
-package com.company;
+package Learning;
 
 public class cwh_10_resulting_data {
     public static void main(String[] args) {

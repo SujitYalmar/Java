@@ -1,4 +1,4 @@
-
+package Learning;
 class base1{
     base1(){
         System.out.println("I am constructer");
@@ -23,6 +23,7 @@ public class cwh_46_cinstructer_in_inheritance {
     public static void main(String[] args) {
         childofderived c = new childofderived();
         
-    }
+        } 
     
+    }
 }

@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
  
 interface bicyle {
     int a = 45;

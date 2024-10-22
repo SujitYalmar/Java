@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 
 public class cwh_24_break_and_continue {
     public static void main(String[] args) {

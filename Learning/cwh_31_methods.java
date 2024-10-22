@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 public class cwh_31_methods {
     static int logic(int x,int y){
         int z;

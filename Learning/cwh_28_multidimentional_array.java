@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 public class cwh_28_multidimentional_array {
     public static void main(String[] args) {
 

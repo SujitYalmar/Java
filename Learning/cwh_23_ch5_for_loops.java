@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 public class cwh_23_ch5_for_loops {
     public static void main(String[] args) {
     //for( int i=1; i<=20;i++){

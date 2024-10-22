@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 public class cwh_22_ch5_do_while_loops {
     public static void main(String[] args) {
     int a = 1;

@@ -1,5 +1,4 @@
-package com.company;
-
+package Learning;
 class A{
     public int a;
     public int harry(){

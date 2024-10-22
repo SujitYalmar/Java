@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 
 public class cwh_39_ch8ps {
     // problem number 1

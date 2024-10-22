@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 
     public class chw_26_array_L1  {
         public static void main(String[] args) {

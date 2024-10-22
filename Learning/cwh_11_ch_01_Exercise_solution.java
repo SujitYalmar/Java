@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 import java.util.Scanner;
 
     public class cwh_11_ch_01_Exercise_solution {

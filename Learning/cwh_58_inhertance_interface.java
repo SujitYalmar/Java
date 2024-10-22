@@ -1,4 +1,4 @@
-package com.company;
+package Learning;
 
 interface childinterface{
     void meth1();
